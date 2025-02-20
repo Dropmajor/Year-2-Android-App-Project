@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Battleships</string>
+    <string name="grid_size">Enter the grid size</string>
+</resources>
