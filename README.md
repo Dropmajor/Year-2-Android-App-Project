@@ -1,5 +1,2 @@
 # Year-2-Android-App-Project
-*TODO*
-Upload code
-write description
-add images/gifs
+Second year development assignment using Kotlin.
